@@ -3,7 +3,7 @@
 > 
 ###  Contents of project package:
 
-> The project package has 3 main .py programming scripts:
+> The project package has 7 main .py programming scripts:
 > 
 > **_CovidReport.py_** : Python file for creating the main CovidReport class and include main function to run the developed system.
 > 
