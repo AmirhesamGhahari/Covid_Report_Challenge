@@ -2,13 +2,21 @@
 
 > 
 ###  Contents of project package:
+
 > The project package has 3 main .py programming scripts:
+> 
 > **_CovidReport.py_** : Python file for creating the main CovidReport class and include main function to run the developed system.
+> 
 > **_CovRepTest.py_** : Python file which includes all the unit tests performed to ensure the accuracy of designed system.
+> 
 > **_ConfigWriter.py_** : Python file to create and initialize a Config file in the same package.
+> 
 > **_ReadMe.docx_** : Text file containing necessary information about the program package.
+> 
 > **_Config.ini_** : Initialized config file, that will be rewritten in case of changing ConfigWriter.py.
+> 
 > **_ISO_DATE.xlsx_** : Excel file containing date&iso pair to perform unit  and integration testing.
+> 
 > **_Output.xlsx_** : sample of generated output of the system for ISO_DATE.xlsx.
 > 
 > 
